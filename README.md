@@ -23,3 +23,4 @@ PRCFULLPAYMENT : Percent of full payment paid by user
 TENURE : Tenure of credit card service for user
 
 
+We are going to use Banco do Brasil client segmentation https://www.bb.com.br/docs/pub/siteEsp/ri/pt/dce/dwn/Institucional1T18.pdf  
